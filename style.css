@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#wrapper input{
+    padding: 35px;
+}
+#wrapper p input{
+    padding: 20px 75px;
+}
